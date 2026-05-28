@@ -2,11 +2,6 @@
 
 `/debate` runs a structured expert panel with opposing schools of thought, then ends with a decision matrix and a clear read.
 
-It is a community-built Lovable Skill by [Lucio Amorim](https://www.linkedin.com/in/lucioamorim), Lovable Ambassador in Brazil.
-
-Central catalog: [`lucioamor/lovable-skills`](https://github.com/lucioamor/lovable-skills)  
-Standalone import repo: [`lucioamor/lovable-skill-debate`](https://github.com/lucioamor/lovable-skill-debate)
-
 ## Why this exists
 
 Builders usually make bad decisions in two moments:
