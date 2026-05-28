@@ -2,6 +2,8 @@
 
 `/debate` runs a structured expert panel with opposing schools of thought, then ends with a decision matrix and a clear read.
 
+For better product judgment, stronger implementation decisions, and fewer accidental consensus traps inside Lovable projects.
+
 ## Why this exists
 
 Builders usually make bad decisions in two moments:
@@ -134,8 +136,6 @@ Then paste:
 https://github.com/lucioamor/lovable-skill-debate
 ```
 
-Lovable imports one skill at a time. For the full catalog, see [`lovable-skills`](https://github.com/lucioamor/lovable-skills).
-
 ## Related skill
 
 [`/wireframe`](https://github.com/lucioamor/lovable-skill-wireframe) generates a plain-text `WIREFRAME.md` from the real app.
@@ -146,4 +146,4 @@ Use `/wireframe` first when `/debate` needs a complete map of routes, copy, layo
 
 Created and maintained by [Lucio Amorim](https://www.linkedin.com/in/lucioamorim), Lovable Ambassador in Brazil.
 
-This is a community-built skill for better product judgment, stronger implementation decisions, and fewer accidental consensus traps inside Lovable projects.
+For the full skills catalog, see [`lovable-skills`](https://github.com/lucioamor/lovable-skills).
